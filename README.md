@@ -43,8 +43,6 @@
         <span><b>Ruby</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
-    </tr>
-    <tr valign="top" style="background-color: #fff;">
       <td width="25%" align="center">
         <span><b>Laravel</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
@@ -53,6 +51,8 @@
         <span><b>Vue</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
+    </tr>
+    <tr valign="top" style="background-color: #fff;">
       <td width="25%" align="center">
         <span><b>React Native</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -61,8 +61,6 @@
         <span><b>VS Code</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><b>Git</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
