@@ -1,13 +1,13 @@
-# Daouda BA <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Mario_Hello_Big.gif" width="30px">
+# Daouda BA <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Developer.gif" width="30px">
 
 <img align="right" alt="PC GIF" src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/PC.gif" width="190" />
 
-## <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Hi.gif" width="29px"> **Hi everyone !** &nbsp;<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Earth.gif" width="24px">
+## <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Hi.gif" width="29px"> **Hi everyone !** &nbsp;<img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Rocket.gif" width="18px">
 
 <p>
   <em>
     My name is Daouda (Dave like DEV) 😉 I am a developer web/mobile <br>  
-    With accomplished research and development skills <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Developer.gif" width="30px"> and based on Dakar (Senegal) <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Designer.gif" width="36px"> <br> I possess certificates of various technologies on software development and have been working as a software developer <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Rocket.gif" width="18px"> for more than 4 years
+    With accomplished research and development skills and based on Dakar (Senegal) <img src="https://github.com/daoodaba975/daoodaba975/blob/master/assets/Designer.gif" width="36px"> <br> I possess certificates of various technologies on software development and have been working as a software developer for more than 4 years
   </em>
 </p>
 <br>
