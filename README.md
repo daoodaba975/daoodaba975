@@ -42,8 +42,8 @@ I possess certificates of various technologies on software development and have 
 ## SUPPORT ME ✅
 
 <p>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  <a href="https://www.buymeacoffee.com/daoodaba975" target="_blank">
+      <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="daoodaba975" data-color="#FFDD00" data-emoji=""  data-font="Comic" data-text="Buy me a coffee Touba ☕️" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
   </a>
 </p>
 
