@@ -33,11 +33,11 @@ I possess certificates of various technologies on software development and have 
 
 **Tools**
 
-<img title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img title="SublimeText" alt="SublimeText" width="30px" height="30px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">|<img title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/selenium.svg">|<img title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">|<img title="Jasmine" alt="Jasmine" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jasmine.svg">|<img title="Cucumber" alt="Cucumber" width="30px" height="30px" src="https://cdn.svgporn.com/logos/cucumber.svg">|<img title="GraphQL" alt="GraphQL" width="30px" height="30px" src="https://cdn.svgporn.com/logos/graphql.svg">|<img title="GitHub" alt="GitHub" width="30px" height="30px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-|--|--|--|--|--|--|--|--|
+<img title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img title="SublimeText" alt="SublimeText" width="30px" height="30px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg">|<img title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/selenium.svg">|<img title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">|<img title="GraphQL" alt="GraphQL" width="30px" height="30px" src="https://cdn.svgporn.com/logos/graphql.svg">|
+|--|--|--|--|--|
 
-<img title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img title="Netlify" alt="Netlify" width="30px" height="30px" src="https://cdn.svgporn.com/logos/netlify.svg">|<img title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">|<img title="GoogleCloud" alt="GoogleCloud" width="30px" height="30px" src="https://cdn.svgporn.com/logos/google-cloud.svg">|<img title="AWS" alt="AWS" width="30px" height="30px" src="https://cdn.svgporn.com/logos/aws.svg">|<img title="Postman" alt="Postman" width="30px" height="30px" src="https://cdn.svgporn.com/logos/postman.svg">|<img title="Composer" alt="Composer" width="30px" height="30px" src="https://cdn.svgporn.com/logos/composer.svg">
-|--|--|--|--|--|--|--|--|
+<img title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img title="Netlify" alt="Netlify" width="30px" height="30px" src="https://cdn.svgporn.com/logos/netlify.svg">|<img title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">|<img title="Postman" alt="Postman" width="30px" height="30px" src="https://cdn.svgporn.com/logos/postman.svg">|
+|--|--|--|--|--|
 
 ## SUPPORT ME ✅
 
