@@ -25,11 +25,8 @@ My name is Daouda (Dave like DEV) 😉 I'm a developer with accomplished researc
 
 **Tools**
 
-<img title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/selenium.svg">|<img title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">
-|--|--|--|
-
-<img title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-|--|--|--|
+<img title="VsCode" alt="VsCode" width="30px" height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">|<img title="Selenium" alt="Selenium" width="30px" height="30px" src="https://cdn.svgporn.com/logos/selenium.svg">|<img title="Jest" alt="Jest" width="30px" height="30px" src="https://cdn.svgporn.com/logos/jest.svg">|<img title="Vercel" alt="Vercel" width="30px" height="30px" src="https://cdn.svgporn.com/logos/vercel-icon.svg">|<img title="Heroku" alt="Heroku" width="30px" height="30px" src="https://cdn.svgporn.com/logos/heroku-icon.svg">|<img title="Docker" alt="Docker" width="30px" height="30px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+|--|--|--|--|--|--|--|
 
 ## SUPPORT ME ✅
 
