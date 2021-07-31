@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/daoodaba975)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daoodaba975)
 
-My name is Daouda (Dave like DEV) 😉 I'm a developer with accomplished research and development skills and based on Dakar (Senegal) and have been working as a software developer for more than 5 years. 
+My name is Daouda (Dave like DEV) 😉 I'm a developer with accomplished research and development skills and based on Dakar (Senegal) and have been working as a software developer for more than 5 years.  
 I'm also the founder of [**GalsenDEV**](https://galsendev.com/) one of the biggest senegalese developer community.
 
 ## DEV STACK 🚀
