@@ -37,7 +37,7 @@ I am also the founder of [**Galsen DEV**](https://galsendev.com/), the biggest d
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=daoodaba975&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=daoodaba975&theme=black-ice&hide_border=true)]
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=daoodaba975&theme=black-ice&hide_border=true)
 
 <p>
   <a href="https://www.buymeacoffee.com/daoodaba975" target="_blank">
