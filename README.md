@@ -1,4 +1,4 @@
-# 👋🏽 Hi everyone
+# 👋🏽 Hello world ‹/›
 
 ![HEADER](assets/header.png)
 
