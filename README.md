@@ -4,7 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daoodaba975)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daoodaba975)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daoodaba975)
 
 My name is Daouda (Dave like DEV) 😉 I am a fullstack developer based in Guediawaye (Dakar, SENEGAL) working in the field of web and mobile development. I am currently working in Remote.  
 With accomplished research and development skills, I possess certificates of various technologies on software development and have been working as a software developer for more than 5 years.  
