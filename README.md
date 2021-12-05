@@ -5,9 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daoodaba975)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daoodaba975)
 
-My name is Daouda (Dave like DEV) 😉 I am a fullstack developer based in Guediawaye (Dakar, SENEGAL) working in the field of web and mobile development. I am currently working in Remote.  
-With accomplished research and development skills, I possess certificates of various technologies on software development and have been working as a software developer for more than 5 years.  
-I am also the founder of [**Galsen DEV**](https://galsendev.com/), the biggest developers community in Senegal 💡
+My name is Daouda (Dave like DEV) 😉 I am a Fullstack Software Engineer based in Dakar, SENEGAL working in the field of web and mobile development.  
+Currently working in full remote, with more than 5 years of experience. I am also the founder & coordinator of [**Galsen DEV**](https://galsendev.com/), the biggest developers community in Senegal 💡
 
 ## DEV STACK 🚀
 
