@@ -16,7 +16,7 @@
 
 ---
 
-I'm a Fullstack Software Engineer based at DAKAR, Senegal working in the field of web and mobile development. Currently working full-time remote, with more than 5 years of experience. I am also the founder/coordinator of [**Galsen DEV**](https://galsen.dev), the biggest developers community in Senegal 💡
+I'm a Fullstack Developer based at DAKAR, Senegal working in the field of web and mobile development. Currently working full-time remote, with more than 5 years of experience. I am also the founder/coordinator of [**Galsen DEV**](https://galsen.dev), the biggest developers community in Senegal 💡
 
 ## DEV STACK 🧰
 
