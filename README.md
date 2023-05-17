@@ -33,11 +33,12 @@ I'm a Fullstack Developer based at DAKAR, Senegal working in the field of web an
 
 [![@daoodaba975's Holopin board](https://holopin.me/daoodaba975)](https://holopin.io/@daoodaba975)
 
-## GITHUB STAT's 📊
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=daoodaba975&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  <a href="https://github-readme-stats.vercel.app/api"><img src="https://github-readme-stats.vercel.app/api?username=daoodaba975&show_icons=true&hide_border=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="500" /></a>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=daoodaba975&theme=black-ice&hide_border=true)
-
-![DevStats](https://stats.hyochan.dev/api/github-stats-advanced?login=daoodaba975)
-
+  <a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=daoodaba975&theme=black-ice&hide_border=true" width="500" /></a>
+  
+  <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=daoodaba975" width="500" /></a>
+</details>
