@@ -41,4 +41,6 @@ I'm a Fullstack Developer based at DAKAR, Senegal working in the field of web an
   <a href="https://github-readme-streak-stats.herokuapp.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=daoodaba975&theme=black-ice&hide_border=true" width="500" /></a>
   
   <a href="https://stats.hyochan.dev"><img src="https://stats.hyochan.dev/api/github-stats-advanced?login=daoodaba975" width="500" /></a>
+  
+  <a href="https://wakatime.com/@41d68ab4-aea2-4f87-a8e0-ac86781cdc23"><img src="https://wakatime.com/badge/user/41d68ab4-aea2-4f87-a8e0-ac86781cdc23.svg" alt="Total time coded since Jul 8 2019" /></a>
 </details>
