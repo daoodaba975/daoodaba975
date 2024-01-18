@@ -1,6 +1,6 @@
 <img alt="Header" src="assets/header.png"/>
 
-<h2 align="center">‹/› Hello world 👋🏽 I'm Daooda.</h2>
+<h1 align="center">‹/› Hello world 👋🏽 I'm Daooda.</h2>
 
 <p align="center">
 I'm a FullStack Developer based at DAKAR, Senegal working in the field of web and mobile development. Currently working full-time remote, with +5 years of experience. I am also the Founder/Lead of <a href="https://galsen.dev" target="_blank">Galsen DEV</a>, the biggest developers community in Senegal 💡 I love creating cool stuff, line after line & passionate about building innovative solution.
@@ -15,8 +15,6 @@ I'm a FullStack Developer based at DAKAR, Senegal working in the field of web an
       <img width="25%" alt="Buy me a coffee" src="assets/buy-coffee.png"/>
   </a>
 </p>
-
----
 
 <h2 align="center">Dev Stack 🎒</h2>
 
